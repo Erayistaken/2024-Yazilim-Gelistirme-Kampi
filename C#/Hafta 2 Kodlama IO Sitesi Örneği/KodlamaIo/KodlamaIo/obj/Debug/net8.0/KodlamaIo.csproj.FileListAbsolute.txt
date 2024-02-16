@@ -1,0 +1,4 @@
+C:\Users\ERAY\Desktop\C#\Hafta 2 Kodlama IO Sitesi Örneği\KodlamaIo\KodlamaIo\obj\Debug\net8.0\KodlamaIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERAY\Desktop\C#\Hafta 2 Kodlama IO Sitesi Örneği\KodlamaIo\KodlamaIo\obj\Debug\net8.0\KodlamaIo.AssemblyInfoInputs.cache
+C:\Users\ERAY\Desktop\C#\Hafta 2 Kodlama IO Sitesi Örneği\KodlamaIo\KodlamaIo\obj\Debug\net8.0\KodlamaIo.AssemblyInfo.cs
+C:\Users\ERAY\Desktop\C#\Hafta 2 Kodlama IO Sitesi Örneği\KodlamaIo\KodlamaIo\obj\Debug\net8.0\KodlamaIo.csproj.CoreCompileInputs.cache
